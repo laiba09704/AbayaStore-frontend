@@ -16,7 +16,7 @@ function Chadar() {
     { id: 4, name: "Printed Chadar", price: 1999, img: "/src/assets/images/printedC.jpg" },
     { id: 5, name: "Elegant White Chadar", price: 3499, img: "/src/assets/images/whiteC.jpg" },
     { id: 6, name: "Soft Brown Chadar", price: 2799, img: "/src/assets/images/brownC.jpg" },
-    { id: 7, name: "Luxury Black Chadar", price: 4599, img: "/src/assets/images/blackC.jpg" },
+    { id: 7, name: "Luxury Black Chadar", price: 4599, img: "/src/assets/images/blueC.jpg" },
     { id: 8, name: "Floral Chadar", price: 3199, img: "/src/assets/images/floral.jpg" }
   ]);
 

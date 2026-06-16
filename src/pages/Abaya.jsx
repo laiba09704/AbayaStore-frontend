@@ -18,7 +18,7 @@ function Abaya() {
     { id: 6, name: "Black Patchwork Abaya", price: 3999, img: "/src/assets/images/pachwork.jpg" },
     { id: 7, name: "Elegant Blue Abaya", price: 6999, img: "/src/assets/images/blue.jpg" },
     { id: 8, name: "Elegant Green Abaya", price: 3999, img: "/src/assets/images/green.jpg" },
-    { id: 9, name: "Black Patchwork Abaya", price: 3999, img: "/src/assets/images/blackC.jpg" },
+    { id: 9, name: "Black Patchwork Abaya", price: 3999, img: "/src/assets/images/black.jpg" },
     { id: 10, name: "Elegant Mehroon Abaya", price: 6999, img: "/src/assets/images/mehroon.jfif" },
     { id: 11, name: "Elegant Green Abaya", price: 3999, img: "/src/assets/images/green.jpg" },
     { id: 12, name: "Black Abaya", price: 4999, img: "/src/assets/images/black.jfif" }
