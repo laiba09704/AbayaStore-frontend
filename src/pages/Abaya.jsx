@@ -10,7 +10,7 @@ function Abaya() {
   }, []);
 
   const [products] = useState([
-    { id: 1, name: "Classy Black Abaya", price: 4999, img: "/src/assets/images/black.jfif" },
+    { id: 1, name: "Classy Black Abaya", price: 4999, img: "/src/assets/images/pachwork.jpg"  },
     { id: 2, name: "Elegant Beige Abaya", price: 3999, img: "/src/assets/images/beige.jfif" },
     { id: 3, name: "Classy Mehroon Abaya", price: 6999, img: "/src/assets/images/mehroon.jfif" },
     { id: 4, name: "Elegant Pinkish Abaya", price: 3999, img: "/src/assets/images/pink.jpg" },
