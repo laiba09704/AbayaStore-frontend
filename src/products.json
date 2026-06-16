@@ -1,5 +1,5 @@
 [
-  { "id": 1, "name": "Classy Black Abaya", "category": "abaya", "price": 4999, "img": "/src/assets/images/Black.jfif" },
+  { "id": 1, "name": "Classy Black Abaya", "category": "abaya", "price": 4999, "img": "/src/assets/images/black.jfif" },
   { "id": 2, "name": "Elegant Beige Abaya", "category": "abaya", "price": 3999, "img": "/src/assets/images/beige.jfif" },
   { "id": 3, "name": "Classy Mehroon Abaya", "category": "abaya", "price": 6999, "img": "/src/assets/images/mehroon.jfif" },
   { "id": 4, "name": "Elegant Pinkish Abaya", "category": "abaya", "price": 3999, "img": "/src/assets/images/pink.jpg" },
@@ -10,7 +10,7 @@
   { "id": 9, "name": "Black Patchwork Abaya", "category": "abaya", "price": 3999, "img": "/src/assets/images/blackC.jpg" },
   { "id": 10, "name": "Elegant Mehroon Abaya", "category": "abaya", "price": 6999, "img": "/src/assets/images/mehroon.jfif" },
   { "id": 11, "name": "Elegant Green Abaya", "category": "abaya", "price": 3999, "img": "/src/assets/images/green.jpg" },
-  { "id": 12, "name": "Black Abaya", "category": "abaya", "price": 4999, "img": "/src/assets/images/Black.jfif" },
+  { "id": 12, "name": "Black Abaya", "category": "abaya", "price": 4999, "img": "/src/assets/images/black.jfif" },
   { "id": 13, "name": "Dot Chadar", "category": "chadar", "price": 2999, "img": "/src/assets/images/dotC.jpg" },
   { "id": 14, "name": "Blue Chadar", "category": "chadar", "price": 3999, "img": "/src/assets/images/blueC.jpg" },
   { "id": 15, "name": "Pink Chadar", "category": "chadar", "price": 4999, "img": "/src/assets/images/pinkC.jpg" },

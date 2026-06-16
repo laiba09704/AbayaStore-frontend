@@ -10,7 +10,7 @@ function Abaya() {
   }, []);
 
   const [products] = useState([
-    { id: 1, name: "Classy Black Abaya", price: 4999, img: "/src/assets/images/Black.jfif" },
+    { id: 1, name: "Classy Black Abaya", price: 4999, img: "/src/assets/images/black.jfif" },
     { id: 2, name: "Elegant Beige Abaya", price: 3999, img: "/src/assets/images/beige.jfif" },
     { id: 3, name: "Classy Mehroon Abaya", price: 6999, img: "/src/assets/images/mehroon.jfif" },
     { id: 4, name: "Elegant Pinkish Abaya", price: 3999, img: "/src/assets/images/pink.jpg" },
@@ -21,7 +21,7 @@ function Abaya() {
     { id: 9, name: "Black Patchwork Abaya", price: 3999, img: "/src/assets/images/blackC.jpg" },
     { id: 10, name: "Elegant Mehroon Abaya", price: 6999, img: "/src/assets/images/mehroon.jfif" },
     { id: 11, name: "Elegant Green Abaya", price: 3999, img: "/src/assets/images/green.jpg" },
-    { id: 12, name: "Black Abaya", price: 4999, img: "/src/assets/images/Black.jfif" }
+    { id: 12, name: "Black Abaya", price: 4999, img: "/src/assets/images/black.jfif" }
   ]);
 
   return (
