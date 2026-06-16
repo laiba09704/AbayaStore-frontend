@@ -10,7 +10,7 @@ function Chadar() {
   }, []);
 
   const [products] = useState([
-    { id: 1, name: "Dot Chadar", price: 2999, img: "/frontend/src/assets/images/dotC.jpg" },
+    { id: 1, name: "Dot Chadar", price: 2999, img: "/src/assets/images/dotC.jpg" },
     { id: 2, name: "Blue Chadar", price: 3999, img: "/src/assets/images/blueC.jpg" },
     { id: 3, name: "Pink Chadar", price: 4999, img: "/src/assets/images/pinkC.jpg" },
     { id: 4, name: "Printed Chadar", price: 1999, img: "/src/assets/images/printedC.jpg" },
